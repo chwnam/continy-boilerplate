@@ -1,2 +1,3 @@
-# continy-boilerplate
-Continy boilerplate setup
+# Continy Boilerplate
+
+Template for continy project.
